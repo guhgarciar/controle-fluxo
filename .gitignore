@@ -7,3 +7,8 @@ bin/ResultadoEscolar.class
 bin/SistamaMedida.class
 bin/ExemploBreakContinue.class
 bin/ExemploForArray.class
+bin/BancoTerminal.class
+.gitignore
+bin/ExemploDoWhile.class
+bin/ExemploWhile.class
+bin/TestandoUmaIdeia.class
